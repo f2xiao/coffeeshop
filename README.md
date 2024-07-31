@@ -2,7 +2,8 @@
 
 ![logo](https://raw.githubusercontent.com/f2xiao/coffeeshop/main/assets/logos/coffee-beans-logo-and-footer.svg)
 
-![coffeeshop]()
+![coffeeshop Home page](https://raw.githubusercontent.com/f2xiao/coffeeshop/main/screenshot1.png)
+![coffeeshop Menu page](https://raw.githubusercontent.com/f2xiao/coffeeshop/main/screenshot2.png)
 
 This is a static webpage of a coffee shop. Please feel free to try our website, and really appreciate if you can give any feedback to me.
 
