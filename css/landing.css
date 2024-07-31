@@ -24,6 +24,16 @@ footer {
 
 .hero__link {
   color: white;
+
+  background-color: #5bacc3;
+  border: none;
+  text-transform: uppercase;
+  width: 11.25rem;
+  padding: 1.25rem 0;
+  display: block;
+  cursor: pointer;
+
+  text-align: center;
 }
 
 .products {
@@ -42,6 +52,16 @@ footer {
   width: 100%;
   height: 100%;
   color: white;
+  margin: 0 auto;
+  text-align: center;
+
+  background-color: #5bacc3;
+  border: none;
+  text-transform: uppercase;
+  width: 11.25rem;
+  padding: 1.25rem 0;
+  display: block;
+  cursor: pointer;
 }
 
 .card__container,
