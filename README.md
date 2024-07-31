@@ -13,7 +13,7 @@ This is a static webpage of a coffee shop. Please feel free to try our website, 
 
 ### Description
 
-A web application that shows the menus and products of a coffeeshop.
+A web application that shows the menus and products of a coffeeshop. Convert design mockups (with style guide) into functional web pages, ensure that the interface is visually appealing and user-friendly.
 
 - Home page: shows the products, navigation links to menu page
 - Coffeeshop information, including address, hours and social media links
